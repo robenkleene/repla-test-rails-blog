@@ -1,0 +1,19 @@
+current directory: /Users/robenkleene/Development/Projects/Cocoa/Repla/Test/repla-test-rails/vendor/bundle/ruby/2.4.0/gems/byebug-11.0.1/ext/byebug
+/Users/robenkleene/.rubies/ruby-2.4.1/bin/ruby -r ./siteconf20191118-1313-ufhnjq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/robenkleene/Development/Projects/Cocoa/Repla/Test/repla-test-rails/vendor/bundle/ruby/2.4.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/robenkleene/Development/Projects/Cocoa/Repla/Test/repla-test-rails/vendor/bundle/ruby/2.4.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/robenkleene/Development/Projects/Cocoa/Repla/Test/repla-test-rails/vendor/bundle/ruby/2.4.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20191118-1313-il3r9n/byebug
