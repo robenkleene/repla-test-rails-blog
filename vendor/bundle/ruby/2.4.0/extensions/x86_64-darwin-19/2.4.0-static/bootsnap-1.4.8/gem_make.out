@@ -1,0 +1,15 @@
+current directory: /Users/robenkleene/Developer/Projects/Cocoa/Repla/Test/repla-test-rails/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.4.8/ext/bootsnap
+/Users/robenkleene/.rubies/ruby-2.4.1/bin/ruby -r ./siteconf20200831-48023-wq4atx.rb extconf.rb
+creating Makefile
+
+current directory: /Users/robenkleene/Developer/Projects/Cocoa/Repla/Test/repla-test-rails/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/robenkleene/Developer/Projects/Cocoa/Repla/Test/repla-test-rails/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/robenkleene/Developer/Projects/Cocoa/Repla/Test/repla-test-rails/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20200831-48023-fptlh9/bootsnap
